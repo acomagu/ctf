@@ -1,0 +1,8 @@
++ls
++shell ls 
++r
+Starting program: /home/yuki/dev/ctf/knsctf/4/q4 
+
+Program received signal SIGSEGV, Segmentation fault.
+++peda context
+++set logging off

